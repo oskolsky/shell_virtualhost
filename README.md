@@ -1,4 +1,3 @@
-bash_virtualhost
+Create Virtual Host
 ================
 
-Create virtual host
